@@ -1,5 +1,7 @@
 # debian-tuning
 
+There are some things that I do after install Debian Linux.
+
 ## License
 
 Copyright 2017 Roman Egunkov <romanegunkov@gmail.com>
